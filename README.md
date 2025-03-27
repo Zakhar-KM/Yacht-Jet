@@ -1,28 +1,30 @@
 # YachtJet – Luxury Yacht Rentals
 
-**YachtJet** – це преміальний сервіс оренди яхт, що пропонує користувачам
-унікальний досвід подорожей на розкішних суднах. Проєкт розроблено в рамах
-командної роботи студентів курсу Fullstack Developer від
+**YachtJet** is a premium yacht rental service that offers users a unique
+experience of traveling on luxurious vessels. The project was developed as part
+of a team collaboration by students of the Fullstack Developer course at
 [GoIT](https://goit.global/ua/courses/fullstack/).
 
-## 🌊 Огляд проєкту
+## 🌊 Project Overview
 
-Сайт **YachtJet** надає клієнтам можливість переглядати флот яхт, дізнаватися
-про їхні характеристики та бронювати судна онлайн. Основний акцент зроблено на
-елегантний дизайн, зручний інтерфейс та адаптивну верстку для всіх пристроїв.
+The **YachtJet** website allows clients to browse the yacht fleet, learn about
+their specifications, and book vessels online. The main focus is on elegant
+design, a user-friendly interface, and responsive layout for all devices.
 
-## 🚀 Функціональність
+## 🚀 Features
 
-✔ **Головний екран** – вітальний блок із заголовком та кнопкою "Yacht rental"  
-✔ **Огляд яхт** – інформація про кожну яхту (модель, довжина, рік випуску, ціна,
-кількість гостей)  
-✔ **Розваги** – список активностей під час оренди (водні види спорту, риболовля,
-екскурсії)  
-✔ **Форма бронювання** – швидка заявка на оренду  
-✔ **Відгуки клієнтів** – реальні історії користувачів  
-✔ **Адаптивність** – сайт оптимізовано для **мобільних, планшетів та десктопів**
+✔ **Home Screen** – a welcome section with a headline and a "Yacht rental"
+button  
+✔ **Yacht Overview** – information about each yacht (model, length, year of
+manufacture, price, number of guests)  
+✔ **Entertainment** – a list of activities available during the rental (water
+sports, fishing, excursions)  
+✔ **Booking Form** – a quick rental request  
+✔ **Customer Reviews** – real user stories  
+✔ **Responsiveness** – the website is optimized for **mobile, tablet, and
+desktop devices**
 
-## 🛠 Використані технології
+## 🛠 Technologies Used
 
 - **Frontend**:
   - HTML5
@@ -30,43 +32,29 @@
   - JavaScript
 - **Backend**:
   - Node.js
-- **Інші інструменти**:
+- **Other Tools**:
   - Trello
   - GitHub
   - Slack
 
-## 👨‍💻 Команда розробників
+## 👨‍💻 Development Team
 
-Олександр Гончар - Team Lead, Developer
+Oleksandr Honchar - Team Lead, Developer
 
-Ольга Хуртенко - Scrum Master, Developer
+Olha Khurtenko - Scrum Master, Developer
 
-Артем Побегайло - Developer
+Zakhar Kurta - Developer
 
-Віталік Каламуняк - Developer
+Artem Pobegailo - Developer
 
-Яна Ховбоша - Developer
+Vitalii Kalamuniak - Developer
 
-Лихацький Артем -Developer
+Yana Khovbosha - Developer
 
-Захар Курта - Developer
+Lykhatskyi Artem - Developer
 
-Дiана Теслюк - Developer
+Diana Tesliuk - Developer
 
-Любов Нестерчук - Developer
+Liubov Nestarchuk - Developer
 
-Роман Гарельченков - Developer
-
-## 🔧 Як запустити проєкт локально?
-
-1️⃣ **Клонувати репозиторій**  
- git clone https://github.com/oleksandr-honchar/project-YJcrew10.git 2️⃣ **Перейти
-в папку проєкту**  
-cd project-YJcrew10 3️⃣ **Встановити залежності**  
-npm install 4️⃣ **Запустити локальний сервер**  
-npm run dev 📍 **Сайт буде доступний за адресою**: 👉 http://localhost:5173/
-
-## 📞 Контакти
-
-Якщо у вас є запитання або пропозиції, звертайтеся: До @Oleksandr Honchar у
-Slack.
+Roman Harelchenkov - Developer
