@@ -21,3 +21,7 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
+      - name: Push changes
+        run:
+          git push --force https://x-access-token:${{
+          secrets.GH_TOKEN}}@github.com/Zakhar-KV/Yacht-Jet.git gh-pages
