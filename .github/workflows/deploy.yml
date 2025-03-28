@@ -24,4 +24,4 @@ jobs:
       - name: Push changes
         run:
           git push --force https://x-access-token:${{
-          secrets.GH_TOKEN}}@github.com/Zakhar-KV/Yacht-Jet.git gh-pages
+          secrets.GH_TOKEN}}@github.com/Zakhar-KM/Yacht-Jet.git gh-pages
